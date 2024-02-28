@@ -1,4 +1,4 @@
-## This was forked from @carbon. Sardine uses @carbon for their iconography.
+## ℹ️ This was forked from @carbon. Sardine uses @carbon for their iconography.
 
 <hr/>
 <p align="center">
